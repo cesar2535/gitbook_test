@@ -1,8 +1,8 @@
 {
-  "plugins": [ "todo", "facebook" ],
-  "pluginsConfig": {
-    "facebook": {
-        "appKey": 1563877630522928
-    }
-  }
+    "plugins": [
+        "todo",
+        "facebook",
+        "disqus"
+    ],
+    "pluginsConfig": {}
 }
