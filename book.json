@@ -4,5 +4,12 @@
         "facebook",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "vantischen"
+        },
+        "facebook": {
+            "appKey": 1563877630522928
+        }
+    }
 }
