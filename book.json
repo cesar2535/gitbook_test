@@ -2,14 +2,8 @@
     "plugins": [
         "todo",
         "facebook",
-        "disqus"
+        "disqus",
+        "highlight"
     ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "vantischen"
-        },
-        "facebook": {
-            "appKey": 1563877630522928
-        }
-    }
+    "pluginsConfig": {}
 }
